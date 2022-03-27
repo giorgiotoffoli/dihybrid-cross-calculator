@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="dihybrid.css" />
+    <title>Dihybrid Cross Calculator</title>
+  </head>
+  <body>
+    <div class="main">
+      <h1 class="di-title">Dihybrid Cross Calculator</h1>
+      <div class="di-div">
+        <input class="di-input" id="di-input-1" type="text" />
+        <input class="di-input" id="di-input-2" type="text" />
+
+        <button class="di-btn-confirm" id="di-calculate" type="submit">
+          Calculate
+        </button>
+      </div>
+
+      <div id="sequence-div">
+        <p class="sequence-text" id="sequence-text">
+          <span id="foil1" class="foil"></span>
+          <span id="foil2" class="foil"></span>
+          <span id="foil3" class="foil"></span>
+          <span id="foil4" class="foil"></span>
+          <br />
+          <span id="foil5" class="foil"></span> <span id="pair1"></span>
+          <span id="pair2"></span> <span id="pair3"></span>
+          <span id="pair4"></span>
+          <br />
+          <span id="foil6" class="foil"></span> <span id="pair5"></span>
+          <span id="pair6"></span> <span id="pair7"></span>
+          <span id="pair8"></span>
+          <br />
+          <span id="foil7" class="foil"></span> <span id="pair9"></span>
+          <span id="pair10"></span> <span id="pair11"></span>
+          <span id="pair12"></span>
+          <br />
+          <span id="foil8" class="foil"></span> <span id="pair13"></span>
+          <span id="pair14"></span> <span id="pair15"></span>
+          <span id="pair16"></span>
+        </p>
+      </div>
+
+      <div>
+        <h2 id="phenotype-title" class="phenotype-title"></h2>
+        <div id="phenotype-table">
+          <p id="phenotype-1" class="phenotype"></p>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <p class="footer-text">
+        Made with 💜 by
+        <a
+          class="link"
+          href="https://www.youtube.com/channel/UCmPfConh9Piq8UpK_sW83jA"
+          >Giorgio Toffoli</a
+        >
+        | Also try the
+        <a
+          class="link"
+          href="http://giorgiotffoli.github.io/punnett-square-calculator"
+          >Punnet Square Calculator</a
+        >
+      </p>
+    </footer>
+
+    <script src="dihybrid.js"></script>
+  </body>
+</html>
