@@ -1,9 +1,9 @@
 # A Simple, Minimalistic, Dihybrid Cross Calculator! 🧬
 ![image](https://user-images.githubusercontent.com/78314850/174684731-4dd9d312-c1c4-49a5-8cfb-4a037c96a0d6.png)
-This web app is an intuative [dihybrid cross calculator](https://giorgiotoffoli.github.io/punnett-square-calculator/) to help you calculate allele pairs and genotype probability for two inherited trait.
+This web app is an intuative [dihybrid cross calculator](https://giorgiotoffoli.github.io/dihybrid-cross-calculator/) to help you calculate allele pairs and genotype probability for two inherited trait.
 
 ## How It Works 🟣
-- Insert two allele pairs in each box (expressed as letters; uppercased [A] for dominant alleles and lowercase [a] for recessive [e.g AaBb & AAbb])
+- Insert two allele pairs in each box (expressed as letters; uppercased [A] for dominant alleles and lowercase [a] for recessive)
 - Press 'Calculate'
 - And _boom_, that's it!
 
