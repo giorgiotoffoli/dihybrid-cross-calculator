@@ -8,4 +8,4 @@ This web app is an intuative [dihybrid cross calculator](https://giorgiotoffoli.
 - And _boom_, that's it!
 
 ![image](https://user-images.githubusercontent.com/78314850/174684923-97671940-9c98-457f-9843-944ba50f6fe2.png)
-> *For this to work best, ensure you are using the same letters [AaBb] (and not different letters [AbBa] for example) for **both** of the input boxes!*
+> *For this to work best, ensure you are using the same letters [AaBb] (and not different letters [Ab Ba] for example) for **both** of the input boxes!*
