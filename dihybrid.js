@@ -144,7 +144,6 @@ function orderString(s) {
 }
 
 function orderLetters(s) {
-  //stringa ABab
   let ns =
     orderString(s.charAt(0) + s.charAt(2)) +
     orderString(s.charAt(1) + s.charAt(3));
